@@ -3,7 +3,7 @@ from openai import OpenAI
 from pypdf import PdfReader
 
 # 1. Add a title to the web page
-st.title("Lab 2: PDF Summarizer")
+st.title("PDF Summarizer")
 st.write("Upload a PDF or .txt document and get a summary.")
 
 # 2. Sidebar dropdown menus
